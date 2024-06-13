@@ -197,6 +197,27 @@ transition: all 0.3s;
     color: black;
 }
 
+.footerlink {
+padding : 0px;
+}
+
+.footerlink:hover {
+border-bottom : solid 1px;
+padding : 0px;
+}
+
+
+.linkContainer {
+  backdrop-filter: blur(1px) saturate(110%);
+  padding : 10px 10px 20px  10px ;
+}
+
+.creditContainer {
+  backdrop-filter: blur(1px) saturate(110%);
+  padding : 5px ;
+}
+
+
 /* LE RESPONSIVE DESIGN */
 
 /* 1300px : Notebook */
