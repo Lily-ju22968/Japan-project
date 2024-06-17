@@ -97,13 +97,13 @@ a {
     grid-column: 1 / 4;
 }
 
-#ginzan1 {
-    background-image: url("https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/b3/be/28/ginzan-ashiyu-hot-spring.jpg");
+#tokyo1 {
+    background-image: url("https://planetofhotels.com/guide/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Tokyo.jpg");
     grid-row: 3 / 20;
 }
 
-#ginzan2 {
-    background-image: url("https://i0.wp.com/destinationjapon.fr/wp-content/uploads/2019/06/yamagata_ginzan_onsen_blog.jpg?fit=1580%2C710&ssl=1");
+#tokyo2 {
+    background-image: url("https://media.istockphoto.com/id/598919748/fr/photo/vue-de-lhorizon-de-tokyo-au-coucher-du-soleil.jpg?s=612x612&w=0&k=20&c=YzqZ9tW6DVVeKdppa6k_xR63TKSFRUZzfGI_JJt2aC4=");
     grid-column: 2 / 4;
     grid-row: 3/ 20;
 }
